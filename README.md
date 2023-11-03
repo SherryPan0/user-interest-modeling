@@ -9,6 +9,8 @@ The project use the [dataset 2](https://scholarbank.nus.edu.sg/handle/10635/1460
 
 Python packages: pdfminer.six
 
+## Large data files
+
 Accessing to some data via google drive, downloads ths files and alter the path when using this file in script:
 
 * [Word2vec model trained on Google News](https://drive.google.com/open?id=0B7XkCwpI5KDYNlNUTTlSS21pQmM): GoogleNews-vectors-negative300.bin.gz
