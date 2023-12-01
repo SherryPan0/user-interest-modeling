@@ -1,5 +1,5 @@
 researcherID,num_pubs,num_rlvs,std,avg,avg-std,NDCG_mr,NDCG_equal,NDCG_weighted,MAX NDCG,MRR_mr,MRR_equal,MRR_weighted,MRR_MAX,P_mr,P_equal,P_weighted,,,,,
-R01,5,127,0.291,0.306,0.015,0.986043332,1,0.975265244,1,1,1,1,1,0.8,0.1,0.8,,,metric values of different user profile model,numbers of user,
+R01,4,127,0.291,0.306,0.015,0.986043332,1,0.975265244,1,1,1,1,1,0.8,0.1,0.8,,,metric values of different user profile model,numbers of user,
 R02,12,88,0.146,0.735,0.589,0,0.761174032,0,0.761174032,0,1,0,1,0,0.4,0,,,,,
 R03,7,60,0.135,0.69,0.555,0,0,0,0,0,0,0,0,0,0,0,,,,,
 R04,5,26,0.108,0.604,0.496,0,0,0,0,0,0,0,0,0,0,0,,,,,
