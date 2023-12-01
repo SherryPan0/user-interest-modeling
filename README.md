@@ -9,6 +9,9 @@ The project use the [dataset 2](https://scholarbank.nus.edu.sg/handle/10635/1460
 
 Python packages: pdfminer.six
 
+## experimental results description
+* std.csv: contain basic statistics of 50 researchers and the accuracy of recommendation for each researcher with W_mr and W_all.
+
 ## Access to Large data files
 
 Accessing to some data via google drive, downloads ths files and alter the path when using this file in script:
