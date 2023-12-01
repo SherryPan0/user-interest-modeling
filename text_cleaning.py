@@ -1,10 +1,3 @@
-# python 3.7
-# -*- coding: utf-8 -*-
-# @Time    : 2020-01-10 22:32
-# @Author  : Xueli
-# @File    : text_cleaning.py
-# @Software: PyCharm
-
 import re, string, unicodedata
 import nltk
 import contractions
